@@ -1,1 +1,1 @@
-Piloto de Java Spring con mysql y React
+ Java Spring con mysql usando xamp y React
